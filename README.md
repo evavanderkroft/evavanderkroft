@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Welcome to my page! Here you can find some cool projects I've been working on for the last couple of years.
 
