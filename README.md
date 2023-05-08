@@ -1,5 +1,5 @@
 # Hi there 👋 Welcome to my page!
-## I am Eva, a Creative Media and Game Technologies student at the Rotterdam University of Applied Sciences.
+## I am Eva, a 4th year Creative Media and Game Technologies student at the Rotterdam University of Applied Sciences.
 
 Here you can find some cool projects I've been working on for the last couple of years.
 
