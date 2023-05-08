@@ -2,10 +2,10 @@
 
 ## Welcome to my page! Here you can find some cool projects I've been working on for the last couple of years.
 
-🔭 I’m currently working on a game in C# !
-🌱 I’m currently learning C#, Blender and NextJs.
-💬 Ask me about anything!
-📫 You can reach me through evavanderkroft@gmail.com!
+- 🔭 I’m currently working on a game in C# !
+- 🌱 I’m currently learning C#, Blender and NextJs.
+- 💬 Ask me about anything!
+- 📫 You can reach me through evavanderkroft@gmail.com!
 
 
 <!--
