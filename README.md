@@ -1,6 +1,7 @@
-# Hi there 👋
+# Hi there 👋 Welcome to my page!
 
-## Welcome to my page! Here you can find some cool projects I've been working on for the last couple of years.
+## I am Eva, a Creative Media and Game Technologies student at the Rotterdam University of Applied Sciences.
+## Here you can find some cool projects I've been working on for the last couple of years.
 
 - 🔭 I’m currently working on a game in C# !
 - 🌱 I’m currently learning C#, Blender and NextJs.
