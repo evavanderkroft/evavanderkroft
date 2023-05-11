@@ -3,7 +3,7 @@
 
 Here you can find some cool projects I've been working on for the last couple of years.
 
-- 🔭 I’m currently working on a game in C# in Unity!
+- 🔭 I’m currently working on a game in C# && a React Native App!
 - ⚡ I have experience with Javascript, Typescript, PHP, Laravel, React, React Native, HTML and (S)CSS.
 - 🌱 I’m currently learning C#, Blender and Python.
 - 💬 Ask me about anything!
