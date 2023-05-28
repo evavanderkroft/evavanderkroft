@@ -4,8 +4,8 @@
 Here you can find some cool projects I've been working on for the last couple of years.
 
 - 🔭 I’m currently working on a game in C# && a React Native App!
-- ⚡ I have experience with Javascript, Typescript, PHP, Laravel, React, React Native, HTML and (S)CSS.
-- 🌱 I’m currently learning C#, Blender and Python.
+- ⚡ I have experience with Javascript, Typescript, PHP, Laravel, React, HTML and (S)CSS.
+- 🌱 I’m currently learning C#, Blender and React Native.
 - 💬 Ask me about anything!
 - 🤝 I'm open to collaborating on web- and game development.
 - 📫 You can reach me through evavanderkroft@gmail.com!
