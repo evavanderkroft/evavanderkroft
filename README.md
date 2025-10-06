@@ -1,11 +1,10 @@
 # Hi there 👋 Welcome to my page!
-## I am Eva, a 4th year Creative Media and Game Technologies student at the Rotterdam University of Applied Sciences.
+## I am Eva, a graduated Creative Media and Game Technologies student at the Rotterdam University of Applied Sciences, currently working for a medical technology company in Delft!
 
 Here you can find some cool projects I've been working on for the last couple of years.
 
-- 🔭 I’m currently working on a game in C# && a React Native App!
 - ⚡ I have experience with Javascript, Typescript, PHP, Laravel, React, HTML and (S)CSS.
-- 🌱 I’m currently learning C#, Blender and React Native.
+- 🌱 I’m currently learning Vue.js!
 - ⚡ Next thing to learn === WebGL / WebGPU in combination with Three.js!
 - 💬 Ask me about anything!
 - 🤝 I'm open to collaborating on web- and game development.
